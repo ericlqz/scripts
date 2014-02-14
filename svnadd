@@ -1,0 +1,2 @@
+#!/bin/sh
+svn add --force $1
